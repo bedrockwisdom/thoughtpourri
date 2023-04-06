@@ -55,13 +55,13 @@
       <enclosure
         length="15545007" 
         type="audio/mpeg" 
-        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/podcast/Episodes/001%20The%20Role%20of%20Myth%20(Final).mp3"
+        url="https://dts.podtrac.com/redirect.mp3/bedrockwisdom.github.io/thoughtpourri/Episodes/What%20is%20God%20or%20Universal%20Spirituality.mp3" https://github.com/bedrockwisdom/thoughtpourri/blob/211a6c451c739470478d985b2f545844d3f70f8b/Episodes/What%20is%20God%20or%20Universal%20Spirituality.mp3
       />
       <guid isPermaLink="false">bwp001</guid>
       <pubDate>Wed, 18 May 2022 02:00:00 MST</pubDate>
       <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-	<link>https://www.bedrockwisdompodcast.com/episode-1-the-role-of-myth/</link>
+	<!-- link>https://www.bedrockwisdompodcast.com/episode-1-the-role-of-myth/</link> -->
 </item>
 
 </item>	
