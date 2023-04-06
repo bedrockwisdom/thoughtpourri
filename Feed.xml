@@ -18,7 +18,7 @@
       <itunes:name>Tyler Robbins</itunes:name>
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
-   <-- <itunes:image href="https://bedrockwisdom.github.io/thoughtpourri/ThoughtpourriArt.jpg"/> 
+   <itunes:image href="https://bedrockwisdom.github.io/thoughtpourri/ThoughtpourriArt.jpg"/> 
     <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Spirituality" /> </itunes:category>
     	<itunes:category text="Society &amp; Culture"> <itunes:category text="Philosophy" /> </itunes:category> 
     	<itunes:category text="Science"> <itunes:category text="Social Sciences" /> </itunes:category>
