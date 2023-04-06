@@ -18,7 +18,7 @@
       <itunes:name>Tyler Robbins</itunes:name>
       <itunes:email>bedrockwisdom@gmail.com</itunes:email>
     </itunes:owner>
-   <!-- <itunes:image href="https://bedrockwisdom.github.io/podcast/BedrockWisdomArtwork.jpg"/>
+   <-- <itunes:image href="https://bedrockwisdom.github.io/thoughtpourri/ThoughtpourriArt.jpg"/> 
     <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Spirituality" /> </itunes:category>
     	<itunes:category text="Society &amp; Culture"> <itunes:category text="Philosophy" /> </itunes:category> 
     	<itunes:category text="Science"> <itunes:category text="Social Sciences" /> </itunes:category>
@@ -47,15 +47,11 @@
 	
 <item>
       <itunes:episodeType>full</itunes:episodeType>
-			  <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <title>Episode 1 - The Role of Myth</title>
-	  <itunes:title>The Role of Myth</itunes:title>
+      <title>Universal Spirituality</title>
+	  <itunes:title>Universal Spirituality</itunes:title>
       <itunes:author>Tyler Robbins</itunes:author>
-	    <itunes:summary>What is myth and how does it play a role in human experience?</itunes:summary>
-      <description>
-        What is myth and how does it play a role in human experience?
-      </description>
+
       <enclosure
         length="15545007" 
         type="audio/mpeg" 
