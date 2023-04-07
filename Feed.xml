@@ -4,7 +4,7 @@
     <title>Thoughtpourri</title>
     <link>https://www.thoughtpourri.com/</link>	
     <language>en-us</language>
-    <atom:link href="https://bedrockwisdom.github.io/thoughtpourri/Feed" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://bedrockwisdom.github.io/thoughtpourri/Feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>&#169; 2023 Tyler Robbins</copyright>
     <itunes:subtitle>Deep, scented dives into a sea of curiosity</itunes:subtitle>
     <itunes:author>Tyler Robbins</itunes:author>
